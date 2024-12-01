@@ -1,0 +1,17 @@
+body {
+    background-color: darkgrey;
+    font-family: sans-serif;
+    margin-top: 0px;
+    padding-top: 0;
+    text-align: left;
+}
+
+
+h1 {
+    background-color: coral;
+    
+}
+
+div {
+    display: block;
+}
